@@ -1,0 +1,5 @@
+int i=0;
+do
+{
+printf("Go Fuck Yourself\n");
+}while(i==0);
